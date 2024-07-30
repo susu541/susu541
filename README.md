@@ -1,11 +1,4 @@
 ## Hi there 👋
-
-### Language
-- Java
-- go
-- nextjs
-- typescript
-
 <p align="left">
   <a href="https://github.com/susu541">
     <img height="20" src="https://komarev.com/ghpvc/?username=susu541" />
@@ -14,6 +7,12 @@
     <img height="20" src="https://img.shields.io/github/followers/susu541?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+### Language
+- Java
+- go
+- nextjs
+- typescript
 
 
 <!--
