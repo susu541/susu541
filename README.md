@@ -14,8 +14,9 @@
 - nextjs
 - typescript
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=susu541&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=susu541&theme=gruvbox)
+<a href="https://github.com/susu541/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susu541&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=9" />
+</a>
 
 <!--
 **susu541/susu541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
